@@ -23,8 +23,8 @@ with tab1:
 
         # Conversion rates for SAR and AED
         conversion_rates = {
-            "SAR": 3.75,
-            "AED": 3.67
+            "SAR": 4.11,
+            "AED": 3.91
         }
 
         # COGS inputs
